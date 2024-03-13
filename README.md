@@ -1,2 +1,2 @@
-# 1st-Repository
+# JavaPrac
 This is where I will be putting my projects
